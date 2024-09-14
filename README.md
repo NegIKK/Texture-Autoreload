@@ -9,4 +9,4 @@ A simple addon that updates all textures in the project after a certain period o
 ![изображение](https://github.com/user-attachments/assets/cc2c00cb-f05f-40a4-b5f0-f42543c4f368)
 
 # Bugs
-Not as fast as the well-known Auto_Reload. With heavy textures and a large number of them may hang. Use with caution
+Not as fast as the well-known Auto_Reload. With heavy textures and a large number of them may lag. Use with caution
